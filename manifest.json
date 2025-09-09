@@ -1,14 +1,14 @@
 {
     "name": "Drink Counter",
     "short_name": "Counter",
-    "start_url": "/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#1a1a1a",
     "theme_color": "#1a1a1a",
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "icon-192.png",
+            "src": "./icon-192.png",
             "type": "image/png",
             "sizes": "192x192"
         }
